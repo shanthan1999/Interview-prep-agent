@@ -1,0 +1,26 @@
+# Core Gradio application - pinned to stable version
+gradio==4.44.0
+
+# Data processing and analysis
+pandas==2.0.3
+numpy==1.24.4
+
+# Visualization
+plotly==5.17.0
+
+# Document processing (optional - graceful failure)
+PyPDF2==3.0.1
+pdfplumber==0.9.0
+python-docx==0.8.11
+
+# Date and time utilities
+python-dateutil==2.8.2
+
+# LangChain text splitters for advanced text processing (minimal dependencies)
+langchain-text-splitters==0.2.2
+
+# Web scraping and URL loading
+requests==2.31.0
+beautifulsoup4==4.12.2
+lxml==4.9.3
+
